@@ -15,7 +15,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kickakurobe&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-### :computer:Languages
+### :computer:Languages tools and other
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="50"</>
