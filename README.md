@@ -30,6 +30,6 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="100"/>
-  <h5>have a nice day and great code)</h5>
+  <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="120"/>
+  <h6>have a nice day and great code!)</h6>
 </div>
