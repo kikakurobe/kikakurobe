@@ -17,7 +17,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kickakurobe&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
----
+
 
 ### :computer:Languages tools and other
 <div>
@@ -27,4 +27,8 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width ="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" width="50"/>
+</div>
+
+<div>
+  <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="150"/>
 </div>
