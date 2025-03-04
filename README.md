@@ -17,7 +17,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 
 ### :computer:Languages tools and other
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width ="50"/>
