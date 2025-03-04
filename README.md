@@ -7,5 +7,5 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 ### :fire:Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kickakurobe&theme=dark&background=000000)](https://git.io/streak-stats)
 <div id="header" align="right">
-  <img src="https://e7.pngegg.com/pngimages/605/131/png-clipart-yui-hirasawa-art-chibi-mangaka-anime-chibi-mammal-brown.png" width="150"/>
+  <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="150"/>
 </div>
