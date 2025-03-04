@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://static.miraheze.org/projectsekaiwiki/a/a1/Miku_chibi.png" width="150"/>
 </div>
-<div id="badges">
+<div id="badges" aligh="center">
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
