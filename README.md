@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://static.miraheze.org/projectsekaiwiki/a/a1/Miku_chibi.png" width="150"/>
+  <a>
   <img src="https://komarev.com/ghpvc/?username=kickakurobe&style=flat-square&color=blue" alt=""/>
+  </a>
 </div>
       
 ### :man_technologist:About Me
