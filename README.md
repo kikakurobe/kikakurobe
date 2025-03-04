@@ -11,4 +11,8 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 <div id="header" align="right">
   <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="150"/>
 </div>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kickakurobe&theme=dark&background=000000)](https://git.io/streak-stats)
+
+### :computer:Languages
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" width="10"/>
+</div>
