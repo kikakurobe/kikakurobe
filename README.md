@@ -35,7 +35,8 @@ Terminal: konsole<br>
 CPU: 12th Gen Intel i5-12450H (12) @ 4.400GHz<br>
 GPU: NVIDIA GeForce RTX 3060 / Max-Q<br>
 Memory: 16GB<br>
-PS: I'm getting ready to switch to Hyperland.-_-<br>
+<br>
+PS: I'm getting ready to switch to Hyperland -_-<br>
 </div>
 
 ---
