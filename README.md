@@ -27,7 +27,9 @@ Shell: zsh 5.9<br>
 Resolution: 1920x1080<br>
 DE: Plasma 6.3.1<br>
 WM: KWin<br>
-<img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="120"/>
+<div align="right">
+  <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="120"/>
+</div>
 Theme: Breeze-Dark [GTK2], Breeze [GTK3]<br>
 Icons: breeze-dark [GTK2/3]<br>
 Terminal: konsole<br>
