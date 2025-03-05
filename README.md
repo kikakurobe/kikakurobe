@@ -20,6 +20,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 
 ---
 ### 🖥️Pc setup
+<div>
 OS: Arch Linux x86_64  
 Kernel: 6.13.4-arch1-1  
 Shell: zsh 5.9  
@@ -33,7 +34,7 @@ Terminal: konsole
 CPU: 12th Gen Intel i5-12450H (12) @ 4.400GHz  
 GPU: NVIDIA GeForce RTX 3060 / Max-Q  
 Memory: 16GB  
-
+</div>
 ### :computer:Languages tools and other
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
