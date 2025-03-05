@@ -19,7 +19,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 </a>
 
 ---
-
+### 🖥️Pc setup
 ### :computer:Languages tools and other
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
