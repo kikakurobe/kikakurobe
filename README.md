@@ -20,7 +20,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 
 ---
 ### 🖥️Pc setup
-OS: Arch Linux x86_64 
+OS: Arch Linux x86_64 \n
 Kernel: 6.13.4-arch1-1 
 Shell: zsh 5.9 
 Resolution: 1920x1080 
