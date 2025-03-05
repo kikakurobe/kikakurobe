@@ -49,4 +49,5 @@ PS: I'm getting ready to switch to Hyperland -_-<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/firefox/firefox-original.svg" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/neovim/neovim-original.svg" width="50">
 </div>
