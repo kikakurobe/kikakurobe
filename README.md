@@ -20,7 +20,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 </a>
 
 ---
-### 🖥️Pc setup
+### 🖥️PC setup
 <div>
   <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="170" align="right"/>
 OS: Arch Linux x86_64<br>
