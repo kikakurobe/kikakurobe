@@ -20,20 +20,20 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 
 ---
 ### 🖥️Pc setup
-<div>
-OS: Arch Linux x86_64  
-Kernel: 6.13.4-arch1-1  
-Shell: zsh 5.9  
-Resolution: 1920x1080  
-DE: Plasma 6.3.1  
-WM: KWin  
+<div align="center">
+OS: Arch Linux x86_64<br>
+Kernel: 6.13.4-arch1-1<br>
+Shell: zsh 5.9<br>
+Resolution: 1920x1080<br>
+DE: Plasma 6.3.1
+WM: KWin
 <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="120"/>
-Theme: Breeze-Dark [GTK2], Breeze [GTK3]   
-Icons: breeze-dark [GTK2/3]  
-Terminal: konsole  
-CPU: 12th Gen Intel i5-12450H (12) @ 4.400GHz  
-GPU: NVIDIA GeForce RTX 3060 / Max-Q  
-Memory: 16GB  
+Theme: Breeze-Dark [GTK2], Breeze [GTK3]
+Icons: breeze-dark [GTK2/3]
+Terminal: konsole
+CPU: 12th Gen Intel i5-12450H (12) @ 4.400GHz
+GPU: NVIDIA GeForce RTX 3060 / Max-Q
+Memory: 16GB
 </div>
 ### :computer:Languages tools and other
 <div>
