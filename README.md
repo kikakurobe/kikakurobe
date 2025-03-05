@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://static.miraheze.org/projectsekaiwiki/a/a1/Miku_chibi.png" width="200"/>
+  <img src="https://static.wikia.nocookie.net/ac4d7fcf-3757-4129-8ca6-2f2654bd68d8/scale-to-width/755" width="200"/>
   <div>
   <img src="https://komarev.com/ghpvc/?username=kickakurobe&style=flat-square&color=blue" alt=""/>
   </div>
