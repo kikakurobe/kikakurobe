@@ -20,18 +20,18 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 
 ---
 ### 🖥️Pc setup
-OS: Arch Linux x86_64 \n
-Kernel: 6.13.4-arch1-1 
-Shell: zsh 5.9 
-Resolution: 1920x1080 
-DE: Plasma 6.3.1 
-WM: KWin 
-Theme: Breeze-Dark [GTK2], Breeze [GTK3] 
-Icons: breeze-dark [GTK2/3] 
-Terminal: konsole 
-CPU: 12th Gen Intel i5-12450H (12) @ 4.400GHz 
-GPU: NVIDIA GeForce RTX 3060 / Max-Q 
-Memory: 16GB
+OS: Arch Linux x86_64  
+Kernel: 6.13.4-arch1-1  
+Shell: zsh 5.9  
+Resolution: 1920x1080  
+DE: Plasma 6.3.1  
+WM: KWin  
+Theme: Breeze-Dark [GTK2], Breeze [GTK3]   
+Icons: breeze-dark [GTK2/3]  
+Terminal: konsole  
+CPU: 12th Gen Intel i5-12450H (12) @ 4.400GHz  
+GPU: NVIDIA GeForce RTX 3060 / Max-Q  
+Memory: 16GB  
 
 ### :computer:Languages tools and other
 <div>
