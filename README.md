@@ -43,7 +43,3 @@ Memory: 16GB<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" width="50"/>
 </div>
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="120"/>
-</div>
