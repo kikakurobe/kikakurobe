@@ -22,7 +22,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 ### 🖥️Pc setup
 <div>
   <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="200" align="right"/>
-OS: Arch Linux x86_64<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="50"/><br>
+OS: Arch Linux x86_64<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="20"/><br>
 Kernel: 6.13.4-arch1-1<br>
 Shell: zsh 5.9<br>
 Resolution: 1920x1080<br>
