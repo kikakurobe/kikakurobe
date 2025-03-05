@@ -22,7 +22,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. My ideology 
 ### 🖥️Pc setup
 <div>
   <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="200" align="right"/>
-OS: Arch Linux x86_64<br>
+OS: Arch Linux x86_64<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="50"/><br>
 Kernel: 6.13.4-arch1-1<br>
 Shell: zsh 5.9<br>
 Resolution: 1920x1080<br>
@@ -35,11 +35,10 @@ CPU: 12th Gen Intel i5-12450H (12) @ 4.400GHz<br>
 GPU: NVIDIA GeForce RTX 3060 / Max-Q<br>
 Memory: 16GB<br>
 </div>
-### :computer:Languages tools and other
+
+### :computer:Languages, tools and other
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width ="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/emacs/emacs-original.svg" width="50"/>
