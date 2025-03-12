@@ -18,6 +18,7 @@ I'm a bit of a programmer. I dream of becoming a real professional. I am engaged
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kickakurobe&layout=compact&langs_count=8&card_width=200&theme=dark" />
 </a>
+<img src="https://www.codewars.com/users/kickakurobe/badges/large">
 
 ---
 ### 🖥️PC setup
