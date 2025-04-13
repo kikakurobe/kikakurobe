@@ -24,13 +24,13 @@ I'm a bit of a programmer. I dream of becoming a real professional. I am engaged
 <div>
   <img src="https://i.pinimg.com/originals/ee/7c/16/ee7c167e8333fa4a4ee2001caf3cf2bd.png" width="170" align="right"/>
 OS: Arch Linux x86_64<br>
-Kernel: 6.13.4-arch1-1<br>
+Kernel: 6.14.2-arch1-1<br>
 Shell: zsh 5.9<br>
 Resolution: 1920x1080<br>
-DE: Plasma 6.3.1<br>
+DE: Plasma 6.3.4<br>
 WM: KWin<br>
 Theme: Breeze-Dark [GTK2], Breeze [GTK3]<br>
-Icons: breeze-dark [GTK2/3]<br>
+Icons: WhiteSur-dark [GTK2/3]<br>
 Terminal: konsole<br>
 CPU: 12th Gen Intel i5-12450H (12) @ 4.400GHz<br>
 GPU: NVIDIA GeForce RTX 3060 / Max-Q<br>
