@@ -6,7 +6,7 @@
 </div>
       
 ### :man_technologist:About Me
-I'm a bit of a programmer. I dream of becoming a real professional. I am engaged in the distribution of free and open source software. I support GNU. I believe that everyone has the right to speak and think without censorship. That's all)
+I'm a bit of a programmer. I dream of becoming a real professional. I am engaged in the distribution of free and open source software. I believe that everyone has the right to speak and think without censorship. That's all)
 
 ---
 
